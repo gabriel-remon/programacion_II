@@ -1,0 +1,15 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ejercicio3.deps.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ejercicio3.runtimeconfig.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ejercicio3.runtimeconfig.dev.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ejercicio3.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ref/ejercicio3.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/bin/Debug/net5.0/ejercicio3.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.AssemblyInfoInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.AssemblyInfo.cs
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ref/ejercicio3.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio3/obj/Debug/net5.0/ejercicio3.genruntimeconfig.cache

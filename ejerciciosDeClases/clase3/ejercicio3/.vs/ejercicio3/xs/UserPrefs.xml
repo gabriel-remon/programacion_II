@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E9E566CF-A206-4F4B-90B2-6D9E4946FB03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Class1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="11" />
+      <File FileName="Biblioteca/Class1.cs" Line="78" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ejercicio3" expanded="True">
+            <Node name="Biblioteca" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="ejercicio3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ejercicio3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Biblioteca FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

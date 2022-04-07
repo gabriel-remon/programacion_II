@@ -1,0 +1,6 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/bin/Debug/proyecto1.exe
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/bin/Debug/proyecto1.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/obj/Debug/proyecto1.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/obj/Debug/proyecto1.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/obj/Debug/proyecto1.exe
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/carpeta sin título/proyecto1/proyecto1/obj/Debug/proyecto1.pdb

@@ -1,0 +1,14 @@
+﻿using System;
+using Billetes;
+
+namespace Ejercicio2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
+        }
+    }
+}
