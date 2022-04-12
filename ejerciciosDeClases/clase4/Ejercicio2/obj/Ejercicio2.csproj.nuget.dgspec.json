@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj": {}
+    "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj": {}
   },
   "projects": {
-    "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj": {
+    "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj",
+        "projectUniqueName": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj",
         "projectName": "Ejercicio2",
-        "projectPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj",
+        "projectPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Ejercicio2.csproj",
         "packagesPath": "/Users/gabrielremon/.nuget/packages/",
-        "outputPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/obj/",
+        "outputPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabrielremon/.config/NuGet/NuGet.Config"

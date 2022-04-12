@@ -1,16 +1,18 @@
-﻿<Properties StartupConfiguration="{9CD6BA86-51EE-416A-BA3A-6582AE94C15B}|Default">
+﻿<Properties StartupConfiguration="{DD59BA28-568A-434A-82D2-D479FA08BD30}|Default">
   <MonoDevelop.Ide.ItemProperties.Ejercicio2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Billetes/Euro.cs">
     <Files>
-      <File FileName="Program.cs" Line="2" Column="16" />
-      <File FileName="Biblioteca/Class1.cs" Line="33" Column="1" />
+      <File FileName="Program.cs" Line="10" Column="31" />
+      <File FileName="Billetes/Class1.cs" Line="50" Column="9" />
+      <File FileName="Billetes/EmptyClass.cs" Line="23" Column="10" />
+      <File FileName="Billetes/Peso.cs" Line="38" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Ejercicio2" expanded="True">
             <Node name="Billetes" expanded="True">
-              <Node name="Class1.cs" selected="True" />
+              <Node name="Euro.cs" selected="True" />
             </Node>
             <Node name="Ejercicio2" expanded="True" />
           </Node>

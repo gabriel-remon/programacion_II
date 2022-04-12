@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Biblioteca/Billetes.csproj",
+      "projectUniqueName": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Billetes/Billetes.csproj",
       "projectName": "Billetes",
-      "projectPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Biblioteca/Billetes.csproj",
+      "projectPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Billetes/Billetes.csproj",
       "packagesPath": "/Users/gabrielremon/.nuget/packages/",
-      "outputPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase4/Ejercicio2/Biblioteca/obj/",
+      "outputPath": "/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase4/Ejercicio2/Billetes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabrielremon/.config/NuGet/NuGet.Config"
