@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+dnqUj8wULpiQcHkOI02TKstc13j7kGD4mu3FNk7lPmUeQOsNZyrOIjR8wU9Q4UQbK/zK9uVeu5W6RyAQtxkA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\segundo cuatrimestre\\programacion_II\\trabajosPracticosAux\\Remon.Gabriel.2C.TP1\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabrielremon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabrielremon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabrielremon\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
