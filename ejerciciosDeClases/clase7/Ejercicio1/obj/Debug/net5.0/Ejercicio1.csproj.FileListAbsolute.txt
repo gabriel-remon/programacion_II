@@ -1,0 +1,15 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/Ejercicio1.deps.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/Ejercicio1.runtimeconfig.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/Ejercicio1.runtimeconfig.dev.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/Ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/ref/Ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/bin/Debug/net5.0/Ejercicio1.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.AssemblyInfoInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.AssemblyInfo.cs
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/ref/Ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase7/Ejercicio1/obj/Debug/net5.0/Ejercicio1.genruntimeconfig.cache

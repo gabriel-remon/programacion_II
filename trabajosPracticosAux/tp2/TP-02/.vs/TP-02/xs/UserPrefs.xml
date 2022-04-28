@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{19D443D3-182C-4844-8A63-A4184CDDA8A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP-02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entidades/Taller.cs">
+    <Files>
+      <File FileName="Entidades/Vehiculo.cs" Line="34" Column="22" />
+      <File FileName="Entidades/Ciclomotor.cs" />
+      <File FileName="Entidades/Sedan.cs" />
+      <File FileName="Entidades/Suv.cs" />
+      <File FileName="Entidades/Taller.cs" Line="47" Column="9" />
+      <File FileName="TP-02/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-02" expanded="True">
+            <Node name="Entidades" expanded="True">
+              <Node name="Taller.cs" selected="True" />
+            </Node>
+            <Node name="TP-02" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

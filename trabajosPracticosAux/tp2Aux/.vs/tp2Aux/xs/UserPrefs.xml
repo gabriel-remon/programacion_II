@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C77B7FBE-C9C8-416E-8F72-A97ED67FCFCC}|Default">
+  <MonoDevelop.Ide.ItemProperties.tp2Aux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ciclomotor.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="15" />
+      <File FileName="Taller.cs" Line="11" Column="10" />
+      <File FileName="Ciclomotor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tp2Aux" expanded="True">
+            <Node name="Entidades" expanded="True" />
+            <Node name="tp2Aux" expanded="True">
+              <Node name="Ciclomotor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

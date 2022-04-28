@@ -1,0 +1,15 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/tp2Aux.deps.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/tp2Aux.runtimeconfig.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/tp2Aux.runtimeconfig.dev.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/tp2Aux.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/ref/tp2Aux.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/bin/Debug/net5.0/tp2Aux.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.AssemblyInfoInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.AssemblyInfo.cs
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/ref/tp2Aux.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/trabajosPracticosAux/tp2Aux/obj/Debug/net5.0/tp2Aux.genruntimeconfig.cache

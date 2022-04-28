@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7D3024B1-0C07-485E-A3C6-D2F8B83D75EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Libro.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="30" />
+      <File FileName="Biblioteca/Libro.cs" Line="34" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio2" expanded="True">
+            <Node name="Biblioteca" expanded="True">
+              <Node name="Libro.cs" selected="True" />
+            </Node>
+            <Node name="Ejercicio2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Biblioteca FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
