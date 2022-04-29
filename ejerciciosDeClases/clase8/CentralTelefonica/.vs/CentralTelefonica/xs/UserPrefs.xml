@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4C3A1E6C-FE49-47D4-A7F3-149F5B4D4E72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Centralita2/Llamada.cs">
+    <Files>
+      <File FileName="Centralita/Class1.cs" Line="109" Column="1" />
+      <File FileName="Centralita/Local.cs" Line="37" Column="68" />
+      <File FileName="Centralita/Provincia.cs" Line="63" Column="38" />
+      <File FileName="Centralita/Llamada.cs" Line="18" Column="17" />
+      <File FileName="Program.cs" Line="22" Column="44" />
+      <File FileName="Centralita2/Llamada.cs" Line="15" Column="1" />
+      <File FileName="Centralita2/Centralita.cs" Line="36" Column="32" />
+      <File FileName="Centralita2/Local.cs" Line="3" Column="22" />
+      <File FileName="Centralita2/Provincia.cs" Line="4" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CentralTelefonica" expanded="True">
+            <Node name="Centralita" expanded="True" />
+            <Node name="Centralita2" expanded="True">
+              <Node name="Llamada.cs" selected="True" />
+            </Node>
+            <Node name="CentralTelefonica" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Centralita FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CentralTelefonica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

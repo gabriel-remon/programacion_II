@@ -1,0 +1,6 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/bin/Debug/Centralita2.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/bin/Debug/Centralita2.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/obj/Debug/Centralita2.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/obj/Debug/Centralita2.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/obj/Debug/Centralita2.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/Centralita2/obj/Debug/Centralita2.pdb

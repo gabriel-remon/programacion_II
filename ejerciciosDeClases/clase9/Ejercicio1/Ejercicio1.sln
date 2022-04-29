@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1.csproj", "{B4B7D868-3A4B-4581-95B8-46BE2F07576E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sobrescrito", "sobrescrito\sobrescrito.csproj", "{A60DD42C-A3FF-4F5E-A448-6962DA43E429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B7D868-3A4B-4581-95B8-46BE2F07576E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B4B7D868-3A4B-4581-95B8-46BE2F07576E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B4B7D868-3A4B-4581-95B8-46BE2F07576E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B4B7D868-3A4B-4581-95B8-46BE2F07576E}.Release|anycpu.Build.0 = Release|anycpu
+		{A60DD42C-A3FF-4F5E-A448-6962DA43E429}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{A60DD42C-A3FF-4F5E-A448-6962DA43E429}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{A60DD42C-A3FF-4F5E-A448-6962DA43E429}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{A60DD42C-A3FF-4F5E-A448-6962DA43E429}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7769643-BAEA-4C8A-A917-762B4DDF50A8}
+	EndGlobalSection
+EndGlobal

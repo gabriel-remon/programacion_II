@@ -1,0 +1,9 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/bin/Debug/CentralTelefonica.exe
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/bin/Debug/CentralTelefonica.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/obj/Debug/CentralTelefonica.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/obj/Debug/CentralTelefonica.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/obj/Debug/CentralTelefonica.exe
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/obj/Debug/CentralTelefonica.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/bin/Debug/Centralita2.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/bin/Debug/Centralita2.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion_II/ejerciciosDeClases/clase8/CentralTelefonica/obj/Debug/CentralTelefonica.csproj.CopyComplete
