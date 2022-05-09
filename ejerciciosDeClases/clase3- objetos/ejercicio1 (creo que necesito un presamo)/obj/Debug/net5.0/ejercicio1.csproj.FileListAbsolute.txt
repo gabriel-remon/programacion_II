@@ -1,0 +1,22 @@
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ejercicio1.deps.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ejercicio1.runtimeconfig.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ejercicio1.runtimeconfig.dev.json
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ref/ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/bin/Debug/net5.0/ejercicio1.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.csproj.AssemblyReference.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.AssemblyInfoInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.AssemblyInfo.cs
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.csproj.CoreCompileInputs.cache
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ref/ejercicio1.dll
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.pdb
+/Users/gabrielremon/Desktop/segundo cuatrimestre/programacion/ejerciciosDeClases/clase3/ejercicio1/obj/Debug/net5.0/ejercicio1.genruntimeconfig.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase3\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb

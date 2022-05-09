@@ -1,0 +1,12 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\modelo parcial\parcial 1\ModelopParcial1aUX\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
