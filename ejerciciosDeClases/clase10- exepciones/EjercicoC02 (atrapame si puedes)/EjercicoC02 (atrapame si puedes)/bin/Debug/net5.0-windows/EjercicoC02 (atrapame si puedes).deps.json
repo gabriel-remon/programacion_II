@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicoC02 (atrapame si puedes)/1.0.0": {
+        "runtime": {
+          "EjercicoC02 (atrapame si puedes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicoC02 (atrapame si puedes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

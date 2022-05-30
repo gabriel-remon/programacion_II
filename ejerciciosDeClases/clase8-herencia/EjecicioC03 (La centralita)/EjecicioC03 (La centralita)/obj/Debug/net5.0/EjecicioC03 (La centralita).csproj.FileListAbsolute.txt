@@ -1,0 +1,19 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).exe
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).runtimeconfig.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).runtimeconfig.dev.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\EjecicioC03 (La centralita).pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).csproj.CopyComplete
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\refint\EjecicioC03 (La centralita).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\EjecicioC03 (La centralita).genruntimeconfig.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\EjecicioC03 (La centralita)\obj\Debug\net5.0\ref\EjecicioC03 (La centralita).dll
