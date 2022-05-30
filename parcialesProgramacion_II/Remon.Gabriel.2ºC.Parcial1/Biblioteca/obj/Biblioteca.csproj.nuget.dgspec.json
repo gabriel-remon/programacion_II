@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual studio\\shared\\NuGetPackages"
