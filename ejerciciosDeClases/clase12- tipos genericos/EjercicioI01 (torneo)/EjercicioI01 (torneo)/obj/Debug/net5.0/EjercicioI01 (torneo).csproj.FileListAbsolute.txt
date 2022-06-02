@@ -1,0 +1,19 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).exe
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).runtimeconfig.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).runtimeconfig.dev.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\EjercicioI01 (torneo).pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\refint\EjercicioI01 (torneo).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).genruntimeconfig.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\ref\EjercicioI01 (torneo).dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase12- tipos genericos\EjercicioI01 (torneo)\EjercicioI01 (torneo)\obj\Debug\net5.0\EjercicioI01 (torneo).csproj.CopyComplete

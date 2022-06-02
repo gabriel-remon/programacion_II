@@ -1,0 +1,16 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase11- test unitarios\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

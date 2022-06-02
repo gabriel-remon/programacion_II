@@ -20,8 +20,8 @@ namespace Remon.Gabriel._2ºC.Parcial1
 
         private void btnAtender_Click(object sender, EventArgs e)
         {
-            PersonalMedico medico = lstMedicos.SelectedItem as PersonalMedico;
-            Paciente paciente = lstPacientes.SelectedItem as Paciente;
+            PersonalMedico? medico = lstMedicos.SelectedItem as PersonalMedico;
+            Paciente? paciente = lstPacientes.SelectedItem as Paciente;
 
             if(medico != null && paciente !=null )
             {
@@ -33,8 +33,8 @@ namespace Remon.Gabriel._2ºC.Parcial1
                 MessageBox.Show("Deve seleccionar un medico y un paciente para poder continuar", "Error de datos",
                                 MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-                lstMedicos.ClearSelected();
-                lstPacientes.ClearSelected();
+            lstMedicos.ClearSelected();
+            lstPacientes.ClearSelected();
         }
 
         private void btnSalir_Click(object sender, EventArgs e)

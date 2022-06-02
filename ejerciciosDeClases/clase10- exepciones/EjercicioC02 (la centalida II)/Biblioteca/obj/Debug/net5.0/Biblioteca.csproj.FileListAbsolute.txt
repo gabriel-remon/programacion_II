@@ -1,0 +1,24 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\EjecicioC03 (La centralita)\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase10- exepciones\EjercicioC02 (la centalida II)\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

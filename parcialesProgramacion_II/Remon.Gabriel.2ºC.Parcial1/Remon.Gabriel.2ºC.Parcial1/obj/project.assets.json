@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\Vista.csproj",
+      "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\Vista.csproj",
       "packagesPath": "C:\\Users\\gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\obj\\",
+      "outputPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Remon.Gabriel.2ºC.Parcial1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\visual studio\\shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\parcialesProgramacion_II\\Remon.Gabriel.2ºC.Parcial1\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

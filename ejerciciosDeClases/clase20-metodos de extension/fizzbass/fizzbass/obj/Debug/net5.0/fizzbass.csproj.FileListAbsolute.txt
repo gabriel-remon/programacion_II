@@ -1,0 +1,16 @@
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.exe
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.deps.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.runtimeconfig.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.runtimeconfig.dev.json
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\bin\Debug\net5.0\fizzbass.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.csproj.AssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\refint\fizzbass.dll
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.pdb
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\fizzbass.genruntimeconfig.cache
+C:\Users\gustavo\Desktop\programacion\programacion_II\ejerciciosDeClases\clase20-metodos de extension\fizzbass\fizzbass\obj\Debug\net5.0\ref\fizzbass.dll
