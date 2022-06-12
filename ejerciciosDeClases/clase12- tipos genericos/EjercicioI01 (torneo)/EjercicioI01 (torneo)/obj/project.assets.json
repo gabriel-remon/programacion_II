@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gustavo\\.nuget\\packages\\": {},
-    "D:\\visual studio\\shared\\NuGetPackages": {}
+    "C:\\Users\\gabriel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\EjercicioI01 (torneo).csproj",
+      "projectUniqueName": "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\EjercicioI01 (torneo).csproj",
       "projectName": "EjercicioI01 (torneo)",
-      "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\EjercicioI01 (torneo).csproj",
-      "packagesPath": "C:\\Users\\gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\obj\\",
+      "projectPath": "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\EjercicioI01 (torneo).csproj",
+      "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+      "outputPath": "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\EjercicioI01 (torneo)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\visual studio\\shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\gustavo\\Desktop\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\Biblioteca\\Biblioteca.csproj"
+            "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase12- tipos genericos\\EjercicioI01 (torneo)\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }
@@ -88,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

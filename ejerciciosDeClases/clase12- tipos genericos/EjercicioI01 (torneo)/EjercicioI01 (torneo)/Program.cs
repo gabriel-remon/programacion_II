@@ -10,21 +10,27 @@ namespace EjercicioI01__torneo_
 
             Torneo<EquipoFutbol> torneoFutbol = new Torneo<EquipoFutbol>("Partido Futbol");
             Torneo<EquipoBasquet> torneoBasquet = new Torneo<EquipoBasquet>("Partido Basquet");
-            bool operacion;
+            //bool operacion;
 
-            EquipoFutbol equipoF1 = new EquipoFutbol("juenitos", DateTime.Now);
+            //EquipoFutbol equipoF1 = new EquipoFutbol("juenitos", DateTime.Now);
 
-            operacion = torneoFutbol + equipoF1;
-          
-            operacion = torneoFutbol + new EquipoFutbol("pepe", DateTime.Now);
-            operacion = torneoFutbol + new EquipoFutbol("mongos", DateTime.Now);
+            torneoFutbol = torneoFutbol + new EquipoFutbol("pepe", DateTime.Now);
+            torneoFutbol = torneoFutbol + new EquipoFutbol("mongos", DateTime.Now);
+            torneoFutbol = torneoFutbol + new EquipoFutbol("juenitos", DateTime.Now);
 
-            operacion = torneoBasquet + new EquipoBasquet("juenitos", DateTime.Now);
-            operacion = torneoBasquet + new EquipoBasquet("pepe", DateTime.Now);
-            operacion = torneoBasquet + new EquipoBasquet("mongos", DateTime.Now);
+            torneoBasquet = torneoBasquet + new EquipoBasquet("juenitos", DateTime.Now);
+            torneoBasquet = torneoBasquet + new EquipoBasquet("pepe", DateTime.Now);
+            torneoBasquet = torneoBasquet + new EquipoBasquet("mongos", DateTime.Now);
 
+            
             Console.WriteLine(torneoBasquet.mostrar());
             Console.WriteLine(torneoFutbol.mostrar());
+            Console.WriteLine(torneoFutbol.JugarPartido);
+            Console.WriteLine(torneoFutbol.JugarPartido);
+            Console.WriteLine(torneoFutbol.JugarPartido);
+            Console.WriteLine(torneoBasquet.JugarPartido);
+            Console.WriteLine(torneoBasquet.JugarPartido);
+            Console.WriteLine(torneoBasquet.JugarPartido);
 
         }
     }

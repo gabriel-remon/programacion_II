@@ -30,17 +30,18 @@ namespace EjercicoC02__atrapame_si_puedes_
                 }
                 kilometros = int.Parse(txt_kilometros.Text);
                 litros = int.Parse(txt_Litros.Text);
-                rtb_Mostrar.Text += $"Consumo de {kilometros}km / {litros} litros: {Calculadora.calcular(kilometros, litros)}";
+                rtb_Mostrar.Text += $"Consumo de {kilometros}km / {litros} litros   " +
+                                    $" \\\\ {Calculadora.calcular(kilometros, litros)} kilometros x litro \n";
             }
             catch(ParametroVacioExeption ex)
             {
                 MessageBox.Show(ex.Message);
             }
-            catch(FormatException ex)
+            catch(FormatException )
             {
                 MessageBox.Show("Error ingrese solo numeros");
             }
-            catch(DivideByZeroException ex)
+            catch(DivideByZeroException )
             {
                 MessageBox.Show("Error Litros no puede ser 0");
             }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KK6IkwoRMFWs1URHoNi4icvDj3sFLWA7CcRS7iqXC3VM6oxIUqbsU7WXqZCIkUWuE92xR5rUuv6svEe06ScDpQ==",
+  "success": true,
+  "projectFilePath": "D:\\programacion\\programacion_II\\ejerciciosDeClases\\clase18- multi hilos\\Simulador de atencion a cliente I02\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

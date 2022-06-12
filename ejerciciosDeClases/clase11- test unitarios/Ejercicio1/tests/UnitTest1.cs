@@ -33,6 +33,8 @@ namespace tests
             //arrang
             int actual = Calculadora.add(numeros);
             //act
+
+            
             //int expectic = 10;
             //assert
             Assert.AreEqual(expectic, actual);

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicoC01 (la centralita VI)/1.0.0": {
+        "dependencies": {
+          "Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "EjercicoC01 (la centralita VI).dll": {}
+        }
+      },
+      "Biblioteca/1.0.0": {
+        "runtime": {
+          "Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicoC01 (la centralita VI)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

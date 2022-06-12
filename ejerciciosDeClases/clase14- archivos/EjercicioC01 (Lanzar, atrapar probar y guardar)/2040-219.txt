@@ -1,0 +1,4 @@
+System.DivideByZeroException: Attempted to divide by zero.
+   at EjercicioC01__Lanzar_y_atrapar_.MiClase.DivicionPorCero()
+   at EjercicioC01__Lanzar_y_atrapar_.MiClase..ctor()
+   at EjercicioC01__Lanzar_y_atrapar_.OtraClase..ctor()

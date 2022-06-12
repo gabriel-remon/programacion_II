@@ -1,0 +1,19 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Cartuchera I01.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Biblioteca.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\bin\Debug\net5.0\Biblioteca.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.csproj.CopyComplete
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\refint\Cartuchera I01.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\Cartuchera I01.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\Cartuchera I01\Cartuchera I01\obj\Debug\net5.0\ref\Cartuchera I01.dll

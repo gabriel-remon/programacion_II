@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Go Speed Racer Go! C02", "Go Speed Racer Go! C02\Go Speed Racer Go! C02.csproj", "{E17DB5E4-ED8E-4CED-B361-16AC0A72FB07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{BE533974-069A-424A-A71F-F8D26E604C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17DB5E4-ED8E-4CED-B361-16AC0A72FB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17DB5E4-ED8E-4CED-B361-16AC0A72FB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17DB5E4-ED8E-4CED-B361-16AC0A72FB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17DB5E4-ED8E-4CED-B361-16AC0A72FB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE533974-069A-424A-A71F-F8D26E604C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE533974-069A-424A-A71F-F8D26E604C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE533974-069A-424A-A71F-F8D26E604C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE533974-069A-424A-A71F-F8D26E604C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A729E8-971E-4757-BE79-1D7FB354ADC9}
+	EndGlobalSection
+EndGlobal

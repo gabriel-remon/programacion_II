@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioC01 (Lanzar y atrapar)", "EjercicioC01 (Lanzar y atrapar)\EjercicioC01 (Lanzar y atrapar).csproj", "{B67F2021-193F-4544-AD21-2131F34052F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{54DB1F42-5120-4489-A66F-55D29ED90EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67F2021-193F-4544-AD21-2131F34052F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67F2021-193F-4544-AD21-2131F34052F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67F2021-193F-4544-AD21-2131F34052F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67F2021-193F-4544-AD21-2131F34052F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DB1F42-5120-4489-A66F-55D29ED90EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB1F42-5120-4489-A66F-55D29ED90EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DB1F42-5120-4489-A66F-55D29ED90EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DB1F42-5120-4489-A66F-55D29ED90EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5917E9A9-B1C0-454E-B527-1FBE19B4E6AE}
+	EndGlobalSection
+EndGlobal

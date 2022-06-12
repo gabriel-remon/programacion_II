@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "La lista del super", "La lista del super\La lista del super.csproj", "{FD6B4497-76EE-4993-8798-BBA4E62B9FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6B4497-76EE-4993-8798-BBA4E62B9FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6B4497-76EE-4993-8798-BBA4E62B9FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6B4497-76EE-4993-8798-BBA4E62B9FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6B4497-76EE-4993-8798-BBA4E62B9FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1519157-C8AE-43AD-917E-76E72BDCF64A}
+	EndGlobalSection
+EndGlobal

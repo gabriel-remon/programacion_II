@@ -20,12 +20,12 @@ namespace Biblioteca
 
         public override string ToString()
         {
-            return nombre;
+            return this.nombre;
         }
 
         public string Firma()
         {
-            return $"{nombre} fundado el {fechaCreacion}";
+            return $"{this.nombre} fundado el {this.fechaCreacion.ToString("d")}";
         }
 
         public static bool operator == (Equipo equipo1, Equipo equipo2) 

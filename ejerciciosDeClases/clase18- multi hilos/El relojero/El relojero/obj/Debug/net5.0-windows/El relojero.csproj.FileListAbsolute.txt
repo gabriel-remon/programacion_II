@@ -1,0 +1,18 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\bin\Debug\net5.0-windows\El relojero.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El_relojero.Form1.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.csproj.GenerateResource.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\refint\El relojero.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\El relojero.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\El relojero\El relojero\obj\Debug\net5.0-windows\ref\El relojero.dll

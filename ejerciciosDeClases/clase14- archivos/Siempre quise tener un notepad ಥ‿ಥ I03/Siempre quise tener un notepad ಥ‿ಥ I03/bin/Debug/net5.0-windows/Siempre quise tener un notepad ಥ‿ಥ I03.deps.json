@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Siempre quise tener un notepad ಥ‿ಥ I03/1.0.0": {
+        "runtime": {
+          "Siempre quise tener un notepad ಥ‿ಥ I03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siempre quise tener un notepad ಥ‿ಥ I03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\bin\Debug\net5.0\Go Speed Racer Go! C02.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\refint\Go Speed Racer Go! C02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\Go Speed Racer Go! C02.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase8-herencia\Go Speed Racer Go! C02\Go Speed Racer Go! C02\obj\Debug\net5.0\ref\Go Speed Racer Go! C02.dll

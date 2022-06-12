@@ -31,8 +31,11 @@ namespace Biblioteca
            {
                 Random random = new Random();
                 int equipo1 = random.Next(0,equipos.Count);
-                int equipo2 = random.Next(0,equipos.Count);
-
+                int equipo2;
+                do
+                {
+                    equipo2 = random.Next(0, equipos.Count);
+                } while (equipo1 == equipo2);
                 return CalcularPartido(equipos[equipo1], equipos[equipo2]);
            }
         }
@@ -41,52 +44,49 @@ namespace Biblioteca
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.AppendLine(nombre);
-            foreach(Equipo unEquipo in equipos)
+            retorno.AppendLine(this.nombre);
+            foreach(T unEquipo in this.equipos)
             {
                 retorno.AppendLine($"1 - {unEquipo.Firma()}");
             }
             return retorno.ToString();
         }
 
-        public string CalcularPartido(T equipo1, T equipo2)
+        private string CalcularPartido(T equipo1, T equipo2)
         {
             Random random = new Random();
             
-            if(equipo1 is Equipo && equipo2 is Equipo)
-            {
-                return $"{equipo1} {random.Next(0, 10)} -" +
-                         $" {random.Next(0, 10)} {equipo2}";
-            }
+            
+            return $"{equipo1.ToString()} {random.Next(0, 10)} -" +
+                   $" {random.Next(0, 10)} {equipo2.ToString()}";
 
-            return "";
         }
 
-        public static bool operator ==(Torneo<T> torneo , Equipo equipo)
+        public static bool operator ==(Torneo<T> torneo , T equipo)
         {
                 foreach (T unEquipo in torneo.equipos)
                 {
                     if (unEquipo == equipo)
-                        return false;
+                        return true;
                 }
-            return true;
+            return false;
           
         }
 
-        public static bool operator !=(Torneo<T> torneo, Equipo equipo)
+        public static bool operator !=(Torneo<T> torneo, T equipo)
         {
             return !(torneo == equipo);
         }
 
-        public static bool operator + (Torneo<T> torneo, Equipo equipo)
+        public static Torneo<T> operator + (Torneo<T> torneo, T equipo)
         {
             if (torneo != equipo)
             {
-                torneo.equipos.Add((T)equipo);
-                return true;
+                torneo.equipos.Add(equipo);
+                return torneo;
             }
 
-            return false;
+            return torneo;
             
         }
 

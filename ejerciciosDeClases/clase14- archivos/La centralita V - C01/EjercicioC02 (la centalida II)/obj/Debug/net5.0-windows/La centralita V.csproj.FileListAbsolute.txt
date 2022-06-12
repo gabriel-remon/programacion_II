@@ -1,0 +1,46 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\Biblioteca.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\Biblioteca.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FormMenu.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FrmLLamador.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FrmMostrar.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.GenerateResource.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.CopyComplete
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\refint\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase13- interfaces\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\ref\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\La centralita V.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\Biblioteca.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\bin\Debug\net5.0-windows\Biblioteca.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FormMenu.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FrmLLamador.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\EjercicioC02__la_centalida_II_.FrmMostrar.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.GenerateResource.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.csproj.CopyComplete
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\refint\La centralita V.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\La centralita V.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase14- archivos\La centralita V - C01\EjercicioC02 (la centalida II)\obj\Debug\net5.0-windows\ref\La centralita V.dll

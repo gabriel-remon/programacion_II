@@ -59,7 +59,7 @@
             this.rtb_Mostrar.Enabled = false;
             this.rtb_Mostrar.Location = new System.Drawing.Point(209, 21);
             this.rtb_Mostrar.Name = "rtb_Mostrar";
-            this.rtb_Mostrar.Size = new System.Drawing.Size(165, 154);
+            this.rtb_Mostrar.Size = new System.Drawing.Size(314, 154);
             this.rtb_Mostrar.TabIndex = 2;
             this.rtb_Mostrar.Text = "";
             // 
@@ -91,7 +91,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(399, 186);
+            this.ClientSize = new System.Drawing.Size(535, 186);
             this.Controls.Add(this.btn_Calcular);
             this.Controls.Add(this.txt_Litros);
             this.Controls.Add(this.txt_kilometros);

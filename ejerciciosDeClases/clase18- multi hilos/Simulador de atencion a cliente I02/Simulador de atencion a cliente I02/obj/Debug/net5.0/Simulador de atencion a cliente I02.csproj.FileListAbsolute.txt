@@ -1,0 +1,21 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Simulador de atencion a cliente I02.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\NameGenerator.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\System.Text.Json.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Biblioteca.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\bin\Debug\net5.0\Biblioteca.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.csproj.CopyComplete
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\refint\Simulador de atencion a cliente I02.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\Simulador de atencion a cliente I02.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase18- multi hilos\Simulador de atencion a cliente I02\Simulador de atencion a cliente I02\obj\Debug\net5.0\ref\Simulador de atencion a cliente I02.dll

@@ -1,0 +1,19 @@
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.exe
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.deps.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.runtimeconfig.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.runtimeconfig.dev.json
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\bin\Debug\net5.0-windows\La lista del super.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.csproj.AssemblyReference.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La_lista_del_super.FrmAltaModificacion.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La_lista_del_super.FrmListaSuper.resources
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.csproj.GenerateResource.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.AssemblyInfoInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.AssemblyInfo.cs
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.csproj.CoreCompileInputs.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\refint\La lista del super.dll
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.pdb
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\La lista del super.genruntimeconfig.cache
+D:\programacion\programacion_II\ejerciciosDeClases\clase15- serializacion\La lista del super\La lista del super\obj\Debug\net5.0-windows\ref\La lista del super.dll
